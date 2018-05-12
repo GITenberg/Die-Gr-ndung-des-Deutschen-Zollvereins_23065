@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25652
     wikipedia: http://en.wikipedia.org/wiki/Heinrich_von_Treitschke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23065#Die-Gr-ndung-des-Deutschen-Zollvereins
 gutenberg_bookshelf:
 - DE Sachbuch
 - German Language Books
